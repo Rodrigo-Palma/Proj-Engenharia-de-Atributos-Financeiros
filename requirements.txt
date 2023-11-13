@@ -1,0 +1,11 @@
+pip
+numpy
+pandas
+ta
+yfinance
+datetime
+plotly
+nbformat
+warnings
+xgboost
+plotly
